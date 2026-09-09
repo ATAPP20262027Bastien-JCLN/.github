@@ -26,3 +26,16 @@
 - Solution 1: Lire les documentations markdown.
 
 ## 9 Septembre 2026
+
+**Taches:** Aujourd'hui, je vais faire le [Issue board](https://github.com/orgs/ATAPP20262027Bastien-JCLN/projects/1/views/1)
+
+**Acomplis:** 
+- [Issue board](https://github.com/orgs/ATAPP20262027Bastien-JCLN/projects/1/views/1)
+
+**Problèmes rencontrés:** 
+- Problème 1: J'ai eu des proplèmes avec le nombre d'issues que je souhaitait ajouter.
+- Problème 2: J'ai vite attein la rate limit de github API GraphQL.
+
+**Solutions:** 
+- Solution 1: Créer un script qui automatise l'ajout des issues.
+- Solution 2: Rien d'autre qu'attendre et réexecuter le script après le refresh de la rate limit. En attendent faire à la main.
