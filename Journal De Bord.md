@@ -8,7 +8,8 @@
   <details>
     <summary>Septembre</summary>
     <a href="#8-septembre-2026">8</a> -
-    <a href="#9-septembre-2026">9</a>
+    <a href="#9-septembre-2026">9</a> -
+    <a href="#14-septembre-2026">9</a>
   </details>
 </details>
 
@@ -39,3 +40,13 @@
 **Solutions:** 
 - Solution 1: Créer un script qui automatise l'ajout des issues.
 - Solution 2: Rien d'autre qu'attendre et réexecuter le script après le refresh de la rate limit. En attendent faire à la main.
+
+## 14 Septembre 2026
+
+**Taches:** Aujourd'hui, je vais faire la base du projet et la première vue, Accueil. Et si le temps me le permet je me metterais a la connexion.
+
+**Acomplis:** 
+
+**Problèmes rencontrés:** 
+
+**Solutions:** 
