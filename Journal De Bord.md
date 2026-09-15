@@ -68,9 +68,15 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 **Taches:** Aujourd'hui, je vais faire la page de connexion et la page d'enregistrement. Avec le backend nécessaire pour que cela fonctionne.
 
 **Accomplis:**
+- Page de connexion et backend
+- Page d'enregistrement et backend
+- Mise en place des premiers tests unitaires
 
-**Problèmes rencontrés:** 
+**Problèmes rencontrés:**
+- Problème 1: Des bug entre wsl mounted dir et composer pest 
 
 **Solutions:** 
 
 **Utilisation de l'IA:** 
+- Design de la page de login et signin.
+- L'installation de pest.
