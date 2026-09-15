@@ -9,7 +9,7 @@
     <summary>Septembre</summary>
     <a href="#8-septembre-2026">8</a> -
     <a href="#9-septembre-2026">9</a> -
-    <a href="#14-septembre-2026">9</a>
+    <a href="#14-septembre-2026">14</a>
   </details>
 </details>
 
@@ -17,7 +17,7 @@
 
 **Taches:** Aujourd'hui, je vais faire le [journal de bord](./Journal%20De%20Bord.md) et le [Issue board](https://github.com/orgs/ATAPP20262027Bastien-JCLN/projects/1/views/1)
 
-**Acomplis:** 
+**Accomplis:** 
 - [Journal de bord](./Journal%20De%20Bord.md)
 
 **Problèmes rencontrés:** 
@@ -30,22 +30,37 @@
 
 **Taches:** Aujourd'hui, je vais faire le [Issue board](https://github.com/orgs/ATAPP20262027Bastien-JCLN/projects/1/views/1)
 
-**Acomplis:** 
+**Accomplis:** 
 - [Issue board](https://github.com/orgs/ATAPP20262027Bastien-JCLN/projects/1/views/1)
 
 **Problèmes rencontrés:** 
-- Problème 1: J'ai eu des proplèmes avec le nombre d'issues que je souhaitait ajouter.
-- Problème 2: J'ai vite attein la rate limit de github API GraphQL.
+- Problème 1: J'ai eu des problèmes avec le nombre d'issues que je souhaitait ajouter.
+- Problème 2: J'ai vite atteins la rate limit de github API GraphQL.
 
 **Solutions:** 
 - Solution 1: Créer un script qui automatise l'ajout des issues.
-- Solution 2: Rien d'autre qu'attendre et réexecuter le script après le refresh de la rate limit. En attendent faire à la main.
+- Solution 2: Rien d'autre qu'attendre et réexécuter le script après le refresh de la rate limit. En attendent faire à la main.
 
 ## 14 Septembre 2026
 
-**Taches:** Aujourd'hui, je vais faire la base du projet et la première vue, Accueil. Et si le temps me le permet je me metterais a la connexion.
+**Taches:** Aujourd'hui, je vais faire la base du projet et la première vue, Accueil. Et si le temps me le permet je me mettrais a la connexion.
 
-**Acomplis:** 
+**Accomplis:**
+- Les différents modèles.
+- La base de donnée.
+- La page d'accueil.
+
+**Problèmes rencontrés:** 
+Je n'ai pas rencontré de problème.
+
+**Solutions:** 
+J'ai aucun problèmes à résoudre, donc pas de solution.
+
+## 15 Septembre 2026
+
+**Taches:** Aujourd'hui, je vais faire la page de connexion et la page d'enregistrement. Avec le backend nécessaire pour que cela fonctionne.
+
+**Accomplis:**
 
 **Problèmes rencontrés:** 
 
