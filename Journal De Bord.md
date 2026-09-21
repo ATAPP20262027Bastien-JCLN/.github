@@ -9,7 +9,12 @@
     <summary>Septembre</summary>
     <a href="#8-septembre-2026">8</a> -
     <a href="#9-septembre-2026">9</a> -
-    <a href="#14-septembre-2026">14</a>
+    <a href="#14-septembre-2026">14</a> -
+    <a href="#15-septembre-2026">14</a> -
+    <a href="#21-septembre-2026">14</a> -
+    <a href="#22-septembre-2026">14</a> -
+    <a href="#28-septembre-2026">14</a> -
+    <a href="#29-septembre-2026">14</a>
   </details>
 </details>
 
@@ -80,3 +85,15 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 **Utilisation de l'IA:** 
 - Design de la page de login et signin.
 - L'installation de pest.
+
+## 21 Septembre 2026
+
+**Taches:** Aujourd'hui, je vais m'occuper de la page de détails des recettes et des liens y menant
+
+**Accomplis:**
+
+**Problèmes rencontrés:**
+
+**Solutions:** 
+
+**Utilisation de l'IA:** 
