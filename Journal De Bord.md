@@ -91,12 +91,16 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 **Taches:** Aujourd'hui, je vais m'occuper de la page de détails des recettes et des liens y menant
 
 **Accomplis:**
+- Page de liste des recettes et backend
+- page de détails et backend
 
 **Problèmes rencontrés:**
+- Probléme 1: Compatibilité avec fedora
 
 **Solutions:** 
 
 **Utilisation de l'IA:** 
+- Aide pour addapter les scriptes pour ne pas être dépendent d'une seul distro linux
 
 ## 22 Septembre 2026
 
