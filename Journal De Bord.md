@@ -97,3 +97,39 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 **Solutions:** 
 
 **Utilisation de l'IA:** 
+
+## 22 Septembre 2026
+
+**Taches:**
+
+**Accomplis:**
+
+**Problèmes rencontrés:**
+
+**Solutions:** 
+
+**Utilisation de l'IA:** 
+
+## 28 Septembre 2026
+
+**Taches:**
+
+**Accomplis:**
+
+**Problèmes rencontrés:**
+
+**Solutions:** 
+
+**Utilisation de l'IA:** 
+
+## 29 Septembre 2026
+
+**Taches:**
+
+**Accomplis:**
+
+**Problèmes rencontrés:**
+
+**Solutions:** 
+
+**Utilisation de l'IA:** 
