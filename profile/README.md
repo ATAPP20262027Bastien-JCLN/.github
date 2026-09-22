@@ -4,7 +4,7 @@
 
 ### Main repo
 
-**[SwissCooking](https://github.com/ATAPP20262027Bastien-JCLN/SwissCooking)**
+* **[SwissCooking](https://github.com/ATAPP20262027Bastien-JCLN/SwissCooking)**
    
 ### Repositories
 
