@@ -104,15 +104,19 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 
 ## 22 Septembre 2026
 
-**Taches:**
+**Taches:** Faire en sorte que la page de détails de la recette affiche les ingrédients, la catégorie et les commentaires (le reste est déjà affiché)
 
 **Accomplis:**
 
 **Problèmes rencontrés:**
+- Problème 1: La gestion d'erreurs et les pages pour cela.
+- Problème 2: Faite le middleware pour catch les erreurs http.
 
 **Solutions:** 
+- Solution 1: Regrouper les catch d'erreurs dans un middleware qui retourne le code http au conrolleur dédier à afficher les erreurs.
 
 **Utilisation de l'IA:** 
+- Grande aide pour faire le ErrorMiddleware et base du ErrorController.
 
 ## 28 Septembre 2026
 
