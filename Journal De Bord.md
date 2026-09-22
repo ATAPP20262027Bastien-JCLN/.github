@@ -25,6 +25,8 @@
 **Accomplis:** 
 - [Journal de bord](./Journal%20De%20Bord.md)
 
+**Manquants:**
+
 **Problèmes rencontrés:** 
 - Problème 1: J'ai eu des petits problèmes avec la structure de base de markdown pour la structure du [journal de bord](./Journal%20De%20Bord.md)
 
@@ -39,6 +41,8 @@
 
 **Accomplis:** 
 - [Issue board](https://github.com/orgs/ATAPP20262027Bastien-JCLN/projects/1/views/1)
+
+**Manquants:**
 
 **Problèmes rencontrés:** 
 - Problème 1: J'ai eu des problèmes avec le nombre d'issues que je souhaitait ajouter.
@@ -59,6 +63,8 @@
 - La base de donnée.
 - La page d'accueil.
 
+**Manquants:**
+
 **Problèmes rencontrés:** 
 Je n'ai pas rencontré de problème.
 
@@ -77,6 +83,8 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 - Page d'enregistrement et backend
 - Mise en place des premiers tests unitaires
 
+**Manquants:**
+
 **Problèmes rencontrés:**
 - Problème 1: Des bug entre wsl mounted dir et composer pest 
 
@@ -94,6 +102,8 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 - Page de liste des recettes et backend
 - page de détails et backend
 
+**Manquants:**
+
 **Problèmes rencontrés:**
 - Probléme 1: Compatibilité avec fedora
 
@@ -104,10 +114,13 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 
 ## 22 Septembre 2026
 
-**Taches:** Faire en sorte que la page de détails de la recette affiche les ingrédients, la catégorie et les commentaires (le reste est déjà affiché)
+**Taches:** Faire en sorte que la page de détails de la recette affiche les ingrédients, la catégorie et les commentaires (le reste est déjà affiché) et la barre de recherche.
 
 **Accomplis:**
-- Ajout du champ text `steps` dans les recettes pour avoir la marche a suivre des recettes. 
+- Ajout du champ text `steps` dans les recettes pour avoir la marche a suivre des recettes.
+
+**Manquants:**
+- La barre de recherche a cause de manque de temps du à la mise en place du gestionnaire d'erreurs.
 
 **Problèmes rencontrés:**
 - Problème 1: La gestion d'erreurs et les pages pour cela.
@@ -125,6 +138,8 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 
 **Accomplis:**
 
+**Manquants:**
+
 **Problèmes rencontrés:**
 
 **Solutions:** 
@@ -136,6 +151,8 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 **Taches:**
 
 **Accomplis:**
+
+**Manquants:**
 
 **Problèmes rencontrés:**
 
