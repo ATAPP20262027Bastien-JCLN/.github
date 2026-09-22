@@ -107,6 +107,7 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 **Taches:** Faire en sorte que la page de détails de la recette affiche les ingrédients, la catégorie et les commentaires (le reste est déjà affiché)
 
 **Accomplis:**
+- Ajout du champ text `steps` dans les recettes pour avoir la marche a suivre des recettes. 
 
 **Problèmes rencontrés:**
 - Problème 1: La gestion d'erreurs et les pages pour cela.
