@@ -23,4 +23,4 @@
 
 ### Journal de bord
 
-[JDB](https://github.com/ATAPP20262027Bastien-JCLN/.github/blob/main/Journal%20De%20Bord.md)
+* [JDB](https://github.com/ATAPP20262027Bastien-JCLN/.github/blob/main/Journal%20De%20Bord.md)
