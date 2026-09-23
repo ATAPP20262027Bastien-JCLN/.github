@@ -13,6 +13,7 @@
     <a href="#15-septembre-2026">15</a> -
     <a href="#21-septembre-2026">21</a> -
     <a href="#22-septembre-2026">22</a> -
+    <a href="#23-septembre-2026">23</a> -
     <a href="#28-septembre-2026">28</a> -
     <a href="#29-septembre-2026">29</a>
   </details>
@@ -131,6 +132,20 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 
 **Utilisation de l'IA:** 
 - Grande aide pour faire le ErrorMiddleware et base du ErrorController.
+
+## 23 Septembre 2026
+
+**Taches:** Aujourd'hui, je vais faire la barre de recherche que je n'ai pas pu faire le <a href="#22-septembre-2026">22</a> et la page des différentes catégories.
+
+**Accomplis:**
+
+**Manquants:**
+
+**Problèmes rencontrés:**
+
+**Solutions:** 
+
+**Utilisation de l'IA:** 
 
 ## 28 Septembre 2026
 
