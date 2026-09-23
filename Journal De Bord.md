@@ -138,14 +138,18 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 **Taches:** Aujourd'hui, je vais faire la barre de recherche que je n'ai pas pu faire le <a href="#22-septembre-2026">22</a> et la page des différentes catégories.
 
 **Accomplis:**
+- Barre de recherche dynamique et backend
+- Page de catégories et backend
 
 **Manquants:**
 
 **Problèmes rencontrés:**
+- Problème 1: Je ne savais pas faire une recherche dynamique en js.
 
 **Solutions:** 
 
 **Utilisation de l'IA:** 
+- Je lui ai demander pour faire la page avec uniquement les recettes, 
 
 ## 28 Septembre 2026
 
