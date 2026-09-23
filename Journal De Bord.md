@@ -5,7 +5,7 @@
 <details>
   <summary>2026</summary>
 
-  <details>
+  <details>ui ai demander pour faire la page avec u
     <summary>Septembre</summary>
     <a href="#8-septembre-2026">8</a> -
     <a href="#9-septembre-2026">9</a> -
@@ -149,7 +149,7 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 **Solutions:** 
 
 **Utilisation de l'IA:** 
-- Je lui ai demander pour faire la page avec uniquement les recettes, 
+- Je lui ai demander de l'aide pour faire la page avec uniquement les recettes, 
 
 ## 28 Septembre 2026
 
