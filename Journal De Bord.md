@@ -162,6 +162,9 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 **Taches:** Aujourd'hui, je vais faire la page de profile, changer la recherche en statique avec un bouton et fixer les quelques erreures présentes actuellement.
 
 **Accomplis:**
+- Corrigé les erreures.
+- Changé la bare de recherche.
+- Page profile et backend.
 
 **Manquants:**
 
@@ -170,6 +173,7 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 **Solutions:** 
 
 **Utilisation de l'IA:** 
+- Reformater le code selon les normes publiques.
 
 ## jj MM YYYY
 
