@@ -153,7 +153,13 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 
 ## 28 Septembre 2026
 
-**Taches:**
+**Cours annulé:** 
+- Cause: Monsieur [Malambu](https://github.com/didomalambu), notre profésseur est absent.
+- Conséquence: Aucune avancée sur le projet.
+
+## 29 Septembre 2026
+
+**Taches:** Aujourd'hui, je vais faire la page de profile, changer la recherche en statique avec un bouton et fixer les quelques erreures présentes actuellement.
 
 **Accomplis:**
 
@@ -165,7 +171,7 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 
 **Utilisation de l'IA:** 
 
-## 29 Septembre 2026
+## jj MM YYYY
 
 **Taches:**
 
