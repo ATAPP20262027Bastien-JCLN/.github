@@ -15,7 +15,8 @@
     <a href="#22-septembre-2026">22</a> -
     <a href="#23-septembre-2026">23</a> -
     <a href="#28-septembre-2026">28</a> -
-    <a href="#29-septembre-2026">29</a>
+    <a href="#29-septembre-2026">29</a> -
+    <a href="#30-septembre-2026">30</a>
   </details>
 </details>
 
@@ -174,6 +175,21 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 
 **Utilisation de l'IA:** 
 - Reformater le code selon les normes publiques.
+
+## 30 Septembre 2026
+
+**Taches:** Aujourd'hui je vais faire la creation de recette, la suppression et,si le temp me le permet, la modification. 
+
+**Accomplis:**
+
+**Manquants:**
+
+**Problèmes rencontrés:**
+
+**Solutions:** 
+
+**Utilisation de l'IA:** 
+- Style et base de la page de creation.
 
 ## jj MM YYYY
 
