@@ -5,7 +5,7 @@
 <details>
   <summary>2026</summary>
 
-  <details>ui ai demander pour faire la page avec u
+  <details>
     <summary>Septembre</summary>
     <a href="#8-septembre-2026">8</a> -
     <a href="#9-septembre-2026">9</a> -
