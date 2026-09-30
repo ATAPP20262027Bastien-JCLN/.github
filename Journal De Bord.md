@@ -181,8 +181,10 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 **Taches:** Aujourd'hui je vais faire la creation de recette, la suppression et,si le temp me le permet, la modification. 
 
 **Accomplis:**
+- La page de creation et backend.
 
 **Manquants:**
+- La modification d'une recette et sa suppression.
 
 **Problèmes rencontrés:**
 
