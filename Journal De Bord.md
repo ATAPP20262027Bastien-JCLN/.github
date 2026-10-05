@@ -18,6 +18,7 @@
     <a href="#29-septembre-2026">29</a> -
     <a href="#30-septembre-2026">30</a>
   </details>
+  
   <details>
     <summary>Octobre</summary>
     <a href="#5-octobre-2026">5</a>
@@ -202,8 +203,9 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 **Taches:** Aujourd'hui, je vais finir l'edition et la suppression de recettes et je vais commencer le système de favorit.
 
 **Accomplis:**
-- La modification de recette et backend.
+- La page modification de recette et backend.
 - La supression de recette et backend.
+- La page des favorits et backend
 
 **Manquants:**
 
@@ -213,6 +215,7 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 
 **Utilisation de l'IA:** 
 - Style des pages car bootstap est toujours aussi cool à utiliser mais difficile a mettre en place.
+- Pareil pour la page des favorits et du bouton pour mettre en favorit
 
 ## jj MM YYYY
 
