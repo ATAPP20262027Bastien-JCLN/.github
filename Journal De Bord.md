@@ -199,9 +199,11 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 
 ## 5 Octobre 2026
 
-**Taches:**
+**Taches:** Aujourd'hui, je vais finir l'edition et la suppression de recettes et je vais commencer le système de favorit.
 
 **Accomplis:**
+- La modification de recette et backend.
+- La supression de recette et backend.
 
 **Manquants:**
 
@@ -210,6 +212,7 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 **Solutions:** 
 
 **Utilisation de l'IA:** 
+- Style des pages car bootstap est toujours aussi cool à utiliser mais difficile a mettre en place.
 
 ## jj MM YYYY
 
