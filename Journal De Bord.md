@@ -18,6 +18,10 @@
     <a href="#29-septembre-2026">29</a> -
     <a href="#30-septembre-2026">30</a>
   </details>
+  <details>
+    <summary>Octobre</summary>
+    <a href="#5-octobre-2026">5</a>
+  </details>
 </details>
 
 ## 8 Septembre 2026
@@ -192,6 +196,20 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 
 **Utilisation de l'IA:** 
 - Style et base de la page de creation.
+
+## 5 Octobre 2026
+
+**Taches:**
+
+**Accomplis:**
+
+**Manquants:**
+
+**Problèmes rencontrés:**
+
+**Solutions:** 
+
+**Utilisation de l'IA:** 
 
 ## jj MM YYYY
 
