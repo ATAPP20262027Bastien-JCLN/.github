@@ -220,7 +220,7 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 
 ## 06 Octobre 2026
 
-**Taches:** Aujourd'hui, je vais faire le système de notation, images pour les recettes et rendre les parties publiques accessible aux utilisateurs non-connecté.
+**Taches:** Aujourd'hui, je vais faire le système de notation et rendre les parties publiques accessible aux utilisateurs non-connecté.
 
 **Accomplis:**
 
