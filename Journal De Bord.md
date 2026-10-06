@@ -223,12 +223,17 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 **Taches:** Aujourd'hui, je vais faire le système de notation et rendre les parties publiques accessible aux utilisateurs non-connecté.
 
 **Accomplis:**
+- Notation et backend.
+- Acces publique.
 
 **Manquants:**
 
 **Problèmes rencontrés:**
 
 **Solutions:** 
+
+**Utilisation de l'IA:** 
+- Style des etoiles.
 
 ## jj MM YYYY
 
