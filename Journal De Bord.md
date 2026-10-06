@@ -7,8 +7,8 @@
 
   <details>
     <summary>Septembre</summary>
-    <a href="#8-septembre-2026">8</a> -
-    <a href="#9-septembre-2026">9</a> -
+    <a href="#08-septembre-2026">08</a> -
+    <a href="#09-septembre-2026">09</a> -
     <a href="#14-septembre-2026">14</a> -
     <a href="#15-septembre-2026">15</a> -
     <a href="#21-septembre-2026">21</a> -
@@ -21,11 +21,12 @@
   
   <details>
     <summary>Octobre</summary>
-    <a href="#5-octobre-2026">5</a>
+    <a href="#05-octobre-2026">05</a> -
+    <a href="#06-octobre-2026">06</a>
   </details>
 </details>
 
-## 8 Septembre 2026
+## 08 Septembre 2026
 
 **Taches:** Aujourd'hui, je vais faire le [journal de bord](./Journal%20De%20Bord.md) et le [Issue board](https://github.com/orgs/ATAPP20262027Bastien-JCLN/projects/1/views/1)
 
@@ -42,7 +43,7 @@
 
 **Utilisation de l'IA:** Pas utilisé
 
-## 9 Septembre 2026
+## 09 Septembre 2026
 
 **Taches:** Aujourd'hui, je vais faire le [Issue board](https://github.com/orgs/ATAPP20262027Bastien-JCLN/projects/1/views/1)
 
@@ -198,7 +199,7 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 **Utilisation de l'IA:** 
 - Style et base de la page de creation.
 
-## 5 Octobre 2026
+## 05 Octobre 2026
 
 **Taches:** Aujourd'hui, je vais finir l'edition et la suppression de recettes et je vais commencer le système de favorit.
 
@@ -215,7 +216,19 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 
 **Utilisation de l'IA:** 
 - Style des pages car bootstap est toujours aussi cool à utiliser mais difficile a mettre en place.
-- Pareil pour la page des favorits et du bouton pour mettre en favorit
+- Pareil pour la page des favorits et du bouton pour mettre en favorit.
+
+## 06 Octobre 2026
+
+**Taches:** Aujourd'hui, je vais faire le système de notation, images pour les recettes et rendre les parties publiques accessible aux utilisateurs non-connecté.
+
+**Accomplis:**
+
+**Manquants:**
+
+**Problèmes rencontrés:**
+
+**Solutions:** 
 
 ## jj MM YYYY
 
