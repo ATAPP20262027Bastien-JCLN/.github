@@ -22,7 +22,8 @@
   <details>
     <summary>Octobre</summary>
     <a href="#05-octobre-2026">05</a> -
-    <a href="#06-octobre-2026">06</a>
+    <a href="#06-octobre-2026">06</a> -
+    <a href="#07-octobre-2026">07</a>
   </details>
 </details>
 
@@ -234,6 +235,20 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 
 **Utilisation de l'IA:** 
 - Style des etoiles.
+
+## 07 Octobre 2026
+
+**Taches:** Aujourd'hui je vais m'occuper de mettre en place les commentaires et leur suppression.
+
+**Accomplis:**
+
+**Manquants:**
+
+**Problèmes rencontrés:**
+
+**Solutions:** 
+
+**Utilisation de l'IA:** 
 
 ## jj MM YYYY
 
