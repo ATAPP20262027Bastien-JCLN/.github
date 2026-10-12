@@ -24,6 +24,9 @@
     <a href="#05-octobre-2026">05</a> -
     <a href="#06-octobre-2026">06</a> -
     <a href="#07-octobre-2026">07</a>
+    <a href="#12-octobre-2026">12</a> -
+    <a href="#13-octobre-2026">13</a> -
+    <a href="#14-octobre-2026">14</a>
   </details>
 </details>
 
@@ -239,6 +242,53 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 ## 07 Octobre 2026
 
 **Taches:** Aujourd'hui je vais m'occuper de mettre en place les commentaires et leur suppression.
+
+**Accomplis:**
+- Commentaires, suppression et backend.
+
+**Manquants:**
+
+**Problèmes rencontrés:**
+
+**Solutions:** 
+
+**Utilisation de l'IA:** 
+
+## 12 Octobre 2026
+
+**Taches:** Aujourd'hui, je vais mettre en place l'ajout d'ingredients et une recherche dans le dropdown de selection d'ingredients et le status des recettes.
+
+**Accomplis:**
+- Ajout d'ingredients et backend.
+- Recherche dynamique dropdown.
+- Status de recette et backend.
+
+**Manquants:**
+
+**Problèmes rencontrés:**
+
+**Solutions:** 
+
+**Utilisation de l'IA:** 
+- Mise en place et correction de la barre de recherche dans les dorpdowns des ingredients.
+
+## 13 Octobre 2026
+
+**Taches:**
+
+**Accomplis:**
+
+**Manquants:**
+
+**Problèmes rencontrés:**
+
+**Solutions:** 
+
+**Utilisation de l'IA:** 
+
+## 14 Octobre 2026
+
+**Taches:**
 
 **Accomplis:**
 
