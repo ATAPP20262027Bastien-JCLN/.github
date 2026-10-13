@@ -266,15 +266,17 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 **Manquants:**
 
 **Problèmes rencontrés:**
+- Le nombres de checks mis en place pour la création de recettes.
 
 **Solutions:** 
+- Commenter les checks qui limite les 
 
 **Utilisation de l'IA:** 
 - Mise en place et correction de la barre de recherche dans les dorpdowns des ingredients.
 
 ## 13 Octobre 2026
 
-**Taches:**
+**Taches:** Aujourd'hui, je vais faire le dashboard admin ou il pourra gerer les users, recettes, ingredients et categories.
 
 **Accomplis:**
 
