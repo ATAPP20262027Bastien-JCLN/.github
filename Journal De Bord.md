@@ -279,28 +279,40 @@ J'ai aucun problèmes à résoudre, donc pas de solution.
 **Taches:** Aujourd'hui, je vais faire le dashboard admin ou il pourra gerer les users, recettes, ingredients et categories.
 
 **Accomplis:**
+- Page d'admin.
+- Modification d'users et backend.
+- Modification categories et backend.
 
 **Manquants:**
+- recette
+- ingredients
 
 **Problèmes rencontrés:**
 
 **Solutions:** 
 
 **Utilisation de l'IA:** 
+- Style des pages
 
 ## 14 Octobre 2026
 
-**Taches:**
+**Taches:** Aujourd'hui, je vais continuer le dashboard admin ou il pourra gerer les users avec certaines regles, recettes, ingredients et categories.
 
 **Accomplis:**
+- Page d'admin.
+- Modification categories et backend.
 
 **Manquants:**
-
+- Finitions des regles de gestions des users.
+- recette
+- ingredients
+  
 **Problèmes rencontrés:**
 
 **Solutions:** 
 
 **Utilisation de l'IA:** 
+- Style des pages
 
 ## jj MM YYYY
 
